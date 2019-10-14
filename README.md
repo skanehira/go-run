@@ -26,7 +26,7 @@ println("hello gorilla")
 }'
 hello gorilla
 
-# run code use pipline
+# run code use pipeline
 echo 'package main
 func main() {
 println("hello gorilla")
